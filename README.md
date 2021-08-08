@@ -32,7 +32,7 @@ You will repeat this process for every server based lab moving forward. Keep the
 
 
 
-> the URLs to point to Heroku applications :**https://abu-nofal-server-deploy-dev.herokuapp.com/**
+> the URLs to point to Heroku applications :**https://abu-nofal--server-deploy-prod.herokuapp.com/** 
 
 
 >  Github actions :**https://github.com/abu-nofal/server-deployment-practice/actions**
